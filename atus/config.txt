@@ -1,4 +1,0 @@
-192.9.3.67
-
-////
-Line 1 = server name or ip
